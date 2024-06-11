@@ -1,7 +1,7 @@
 public class binarySearch {
 
         public static void main(String[] args) {
-            int[] vetorOrdenado = {11, 22, 33, 44, 55, 66, 77, 88, 99};
+            int[] vetorOrdenado = {11, 22, 33, 44, 55, 66, 77, 88, 100};
             int elementoProcurado = 55;
             int inicio = 0;
             int fim = vetorOrdenado.length - 1;
